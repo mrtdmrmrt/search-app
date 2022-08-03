@@ -1,0 +1,10 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TdInput.vue renders props. isError, errorText, placeholder when passed 1`] = `
+<div class="td-input__wrapper">
+  <div class="td-input__label error"></div> <input type="text" placeholder="Awesome!" class="td-input__input error">
+  <div class="td-input__errorText">
+    error text
+  </div>
+</div>
+`;

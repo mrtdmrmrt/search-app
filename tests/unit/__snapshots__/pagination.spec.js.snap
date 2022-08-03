@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TdPagination.vue renders props total, currentPage when passed 1`] = `
+<div class="td-pagination__wrapper">
+  <ul class="td-pagination__list">
+    <li class="td-pagination__list--prev">
+      Previous
+    </li>
+    <li class="td-pagination__list--item active-pagination">
+      1
+    </li>
+    <li class="td-pagination__list--item">
+      2
+    </li>
+    <li class="td-pagination__list--item">
+      3
+    </li>
+    <li class="td-pagination__list--next">Next</li>
+  </ul>
+</div>
+`;

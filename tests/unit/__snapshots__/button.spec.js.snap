@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`TdButton.vue renders props.disabled when passed 1`] = `<button disabled="disabled" class="td__button"></button>`;
+
+exports[`TdButton.vue renders slots when passed 1`] = `<button class="td__button"><span>label</span></button>`;
